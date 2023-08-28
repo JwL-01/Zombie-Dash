@@ -1,6 +1,4 @@
 # ZombieDash
-In a world where an infectious outbreak has plagued all forms of life as you know it, your survival instincts are put to the ultimate test in a game called "Zombie Dash." Crafted with Java by a group of students, Zombie Dash immerses you in a heart-pounding experience where quick thinking and strategic moves are your only allies.
-
 Your mission is crystal clear: navigate through an intricate maze infested with ravenous zombies, all while collecting essential food items to ensure your survival. The clock is ticking, and the undead horde is relentless in its pursuit. The town, your beacon of hope, awaits you at the end of the treacherous path. Can you reach it before it's too late?
 
 Armed with nothing but your wits and the keys at your fingertips, you must master the art of evasion and strategy. The controls are simple yet crucial: use the WASD keys to move swiftly through the maze, making split-second decisions to outwit the pursuing zombies. Along the way, keep your eyes peeled for stars that offer bonus points, adding an extra layer of challenge for those who dare to strive for excellence.
