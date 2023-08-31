@@ -10,6 +10,6 @@ Every playthrough is a unique experience, as the food items appear in different 
 
 Zombie Dash is not just a game; it's a test of your survival instincts, quick reflexes, and strategic thinking. Do you have what it takes to outmaneuver the zombie horde, navigate the maze's twists and turns, and emerge victorious? The town's safety lies in your hands. It's time to run, gather, and conquer – or become just another victim of the infectious outbreak. The choice is yours.
 
-**Video**
+**Demo Video**
 ---
 [![ZombieDash](http://img.youtube.com/vi/_uVIVFhByXI/0.jpg)](http://www.youtube.com/watch?v=_uVIVFhByXI "Video Title")
